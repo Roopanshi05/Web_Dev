@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio | Ishan Jha (XylaN)</title>
+    <title>Portfolio | Roopanshi Yadav (XylaN)</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav class="navbar">
         <div class="nav-container">
-            <a href="#home" class="logo">Ishan Jha.</a>
+            <a href="#home" class="logo">Roopanshi Yadav.</a>
             <div class="nav-menu">
                 <a href="#about" class="nav-link">About</a>
                 <a href="#skills" class="nav-link">Skills</a>
@@ -23,7 +23,7 @@
         <div class="hero-content">
             <div class="hero-text">
                 <span class="greeting">Hello, I'm</span>
-                <h1 class="hero-title">Ishan Jha</h1>
+                <h1 class="hero-title">Roopanshi Yadav</h1>
                 <p class="hero-subtitle">AI/ML & DataScience Enthusiast</p>
                 <p class="hero-description">Turning data into insights and building intelligent solutions with code</p>
                 <div class="hero-buttons">
@@ -143,11 +143,11 @@
                     <div class="contact-details">
                         <div class="contact-item">
                             <span class="contact-icon">📧</span>
-                            <span>Ishanjha18@gmail.com</span>
+                            <span>roopanshi2906@gmail.com</span>
                         </div>
                         <div class="contact-item">
                             <span class="contact-icon">📱</span>
-                            <span>+91 8750044429</span>
+                            <span>+91 8826959999</span>
                         </div>
                         <div class="contact-item">
                             <span class="contact-icon">📍</span>
@@ -175,7 +175,7 @@
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
-                <p>&copy; 2026 Ishan Jha (XylaN). Built with passion and code.</p>
+                <p>&copy; 2026 Roopanshi Yadav (XylaN). Built with passion and code.</p>
                 <div class="social-links">
                     <a href="#" class="social-link">GitHub</a>
                     <a href="#" class="social-link">LinkedIn</a>
